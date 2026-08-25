@@ -1,0 +1,380 @@
+[
+    {
+        "id": "0000",
+        "name": "Industrial Mechanics",
+        "introduction": "Industrial mechanics design and plan, install and commission, maintain, repair, and decommission, industrial plant. They work in a large range of industrial settings and production plants and may either have specialist knowledge about one particular industry or work across several. They may be employed within a large single plant, installing and maintaining production equipment, or work for subcontractors across a number of industrial settings. They normally work both indoors and outdoors, on small and large projects.",
+        "img": "0000.jpg"
+    },
+    {
+        "id": "0001",
+        "name": "Manufacturing Team Challenge",
+        "introduction": "The skill competition of Manufacturing Team Challenge is based on the design, manufacture assembly and testing of equipment by teams of complementary specialists. In either large or small manufacturing operations there is a strong demand for several specialists to come together to design, manufacture, assemble, and test new or improved equipment either as a one-off item or as the prototype for mass production.",
+        "img": "0001.jpg"
+    },
+    {
+        "id": "0002",
+        "name": "Mechatronics",
+        "introduction": "Mechatronics combines skills in mechanics, pneumatics, hydraulics, electrics, electronics, computer technology, production digitalization technology (industrial ioT: RFID, NFC, wireless communication, PLC web-server, Cyber Security, Vision Systems, Augmented reality, etc), robotics and systems development. The computer technology element covers the programming of PLC’s, robots and other handling systems and information technology applications, programmable machine control systems, and technology which enable communication between machines, equipment, and people.",
+        "img": "0002.jpg"
+    },
+    {
+        "id": "0003",
+        "name": "Mechanical Engineering CAD",
+        "introduction": "Mechanical engineering computer aided design (CAD) is the use of computer systems to assist in the creation, modification, analysis, or optimization of an engineering design. CAD software is used to increase the productivity of the designer, improve the quality of design, improve communication through documentation, and create a database for manufacturing. CAD output is often in the form of electronic files for print, manufacturing documentation, or other manufacturing processes.",
+        "img": "0003.jpg"
+    },
+    {
+        "id": "0004",
+        "name": "CNC Turning",
+        "introduction": "CNC Machining has become one of the most important current machining processes in modern industry. Parts are made for household-equipment, telecommunications, cars, ships, aeroplanes, oil rigs, bridges, aerospace etc. Customers come from virtually every sector.",
+        "img": "0004.jpg"
+    },
+    {
+        "id": "0005",
+        "name": "CNC Milling",
+        "introduction": "Computer Numerical Control (CNC) technology has become omnipresent. Most people cannot imagine how important these technologies are in their lives. There is nothing that we use that hasn’t in its manufacturing utilized CNC technology. It is present in products and objects of everyday life, such as cars, airplanes, components of machines of all types, moulds for tools used for household machines, medical prosthetics, cell phones, and toys.",
+        "img": "0005.jpg"
+    },
+    {
+        "id": "0006",
+        "name": "Welding",
+        "introduction": "Welding is a critical process that is controlled by both national and international standards and specifications to regulate the quality of the deposited weld metal and the skill of the welder.",
+        "img": "0006.jpg"
+    },
+    {
+        "id": "0007",
+        "name": "Electronics",
+        "introduction": "The electronics industry is very diverse and has evolved into several specialisms. Some Engineering Technicians/Technologists will work across many aspects of electronics but increasing specialization and technical developments means that specialist Engineering Technician/Technologist are widely employed.",
+        "img": "0007.jpg"
+    },
+    {
+        "id": "0008",
+        "name": "Industrial Control",
+        "introduction": "Industrial Control contains elements of both electrical installations and automation installations, with greater emphasis on automation installation. The industrial control practitioner requires a wide range of technical skills, such as installing conduits, cables, instruments, I/O devices and Programmable Logic Controllers. The industrial control practitioner also designs electrical circuits, programs Programmable Logic Controllers, parametrizes bus systems and configures Human Machine Interfaces.",
+        "img": "0008.jpg"
+    },
+    {
+        "id": "0009",
+        "name": "Mobile Robotics",
+        "introduction": "Mobile Robotics is a fast evolving, solutions orientated, industry within which the robotics/technologist is a significant and growing work role. Mobile robotics is an important part of the future, with applications in everyday life, diverse industries, including autonomous vehicles, manufacturing, agriculture, aerospace, mining, and medicine.\nA robotics technologist works in offices, manufacturing plants or laboratories; he or she designs, maintains, develops new applications and conducts research to expand the potential for robots. The role begins with a strong focus on a specific business problem, in a particular sector. For example, in manufacturing there may be a need to increase capacity by creating robots for tasks that can be automated. Mobile robots may also be designed to explore areas that are inaccessible or dangerous for human beings.",
+        "img": "0009.jpg"
+    },
+    {
+        "id": "0010",
+        "name": "Construction Metal Work",
+        "introduction": "Construction metalworking is the assembly and installation of steel structures, vessels and components that encompass the food & dairy, pharmaceutical & chemical industries, architectural engineering and structural steel work for buildings and bridges. Very high standards of finish and quality are expected from the construction metalworker as food and pharmaceutical products are transported and produced from steel components that a construction metalworker would assemble. High-rise buildings, stadiums and bridges are erected using the skills of the construction metalworker along with cutting edge architectural designs that affect the modern landscape for innovative building designs.",
+        "img": "00010.jpg"
+    },
+    {
+        "id": "0011",
+        "name": "Plastic Die Engineering",
+        "introduction": "Plastic Die engineering is the mass production of plastic products of high quality at low cost. Plastic injection moulded components are used in telecommunications, medical, aerospace, and automobile industries, home appliances, office automation, entertainment, and electronics. Within this sector, plastic die technicians, otherwise known as mould makers, carry out a range of different duties which vary depending on the organisation they work for.",
+        "img": "0011.jpg"
+    },
+    {
+        "id": "0012",
+        "name": "Prototype Modelling",
+        "introduction": "The prototype modelling practitioner is involved with the design, creation, testing, and modification of prototypes. In many fields, there is great uncertainty as to whether a new design will actually do what is desired. New designs often have unexpected problems. A prototype is often used as part of the product design process to give engineers and designers the ability to explore design alternatives, test theories, and confirm performance prior to starting production of a new product. Prototype modellingpractitioners use their experience to tailor prototypes according to the specific unknowns still present in the intended designs. For example, some prototypes are used to confirm and verify consumer interest in a proposed design, whereas other prototypes will attempt to verify the performance or suitability of a specific design approach.",
+        "img": "0012.jpg"
+    },
+    {
+        "id": "0013",
+        "name": "Chemical Laboratory Technology",
+        "introduction": "The work of laboratory chemical analyst is the basis of the product quality in many industries. Chemical analysis is necessary to control the compliance of the properties of raw materials, intermediate stages of the technological process, and finished products with current standards.The laboratory chemical analyst performs laboratory analyses, tests, measurements aimed at determiningcomplexity of the tests performed depend on the type of tasks set by the employer.",
+        "img": "0013.jpg"
+    },
+    {
+        "id": "0014",
+        "name": "Water Technology",
+        "introduction": "Water Technicians may work on the supply of water, or the treatment of wastewater, or on both simultaneously or sequentially.Water Supply Engineering Technicians work in municipal and industrial water supply companies. They carry out their work independently on the basis of technical documents and rules as well as on legal bases. Water Supply Technicians procure information, plan, and coordinate their work. They document their services and take measures to ensure quality assurance, safety, health, and environmental protection at work.They may work in large or small facilities for processing drinking water, performing a range of technician duties in larger ones, and management roles in smaller ones.",
+        "img": "0014.jpg"
+    },
+    {
+        "id": "0015",
+        "name": "Industry 4.0",
+        "introduction": "When we talk about Industry 4.0, we mean the impact information and communication technologies (ICT) are having on real-time optimization and networking for efficient automation and production. This is sometimes also called the “fourth industrial revolution”.It is the role of the Digital Production Systems Technician to implement Industry 4.0 in businesses, designing and implementing systems, introducing both software and hardware, and supporting programmes, especially cybersecurity.A Digital Production Systems Technician must be continually aware of changes and recognize advances in technology means they must be continually learning.",
+        "img": "0015.jpg"
+    },
+    {
+        "id": "0016",
+        "name": "Additive Manufacturing",
+        "introduction": "One of the newest and fastest-growing branches of engineering, Additive Manufacturing is more commonly known as 3D printing.Traditional manufacturing methods, such as milling and turning, cut away material to create the desired end product. In Additive Manufacturing, layers are added in succession to achieve the same result.Additive Manufacturing can be a more agile way to create strong and complex objects, such as prototypes, for industry and designers, and with less waste.Working in Addictive Manufacturing requires a new approach to design and manufacturing. This includes a thorough understanding of the equipment for 3D printing and scanning, and the characteristics of the materials used, along with applied mathematics, geometry, and Computer Aided Design and Engineering (CAD and CAE). An understanding and imagination for the potential future uses of this technology is essential.",
+        "img": "0016.jpg"
+    },
+    {
+        "id": "0017",
+        "name": "Industrial Design Technology",
+        "introduction": "Consumer products for mass consumption need both to work well and look good. This is the role of Industrial Design Technology, which also makes sure that a new product is technically feasible to make, meets the need in the marketplace, and can be sold at an acceptable price.Industrial Design Technology combines design and engineering. In smaller companies and start-ups, this can mean covering all stages of the process or working as part of a team in larger organizations.Industrial Design Technology requires a wide range of skills and understanding, including market research, design, engineering, product analysis, materials, and good communication.",
+        "img": "0017.jpg"
+    },
+    {
+        "id": "0018",
+        "name": "Optoelectronic Technology",
+        "introduction": "Optoelectronics is an emerging technology that combines the physics of light with electricity so that one can control the other. We see it in products like LED lights, solar cells, and optical fibre cables, among many.Its applications are equally wide, from lighting products to medical research and treatment, advanced manufacturing devices and measuring technology.Optoelectronic Technicians can also work in a diverse range of fields, including development, production, and maintenance. They must work with accuracy and precision and meet customer specifications and international standards. They can be involved in manufacturing, commissioning, and providing support for these devices.",
+        "img": "0018.jpg"
+    },
+    {
+        "id": "0019",
+        "name": "Renewable Energy",
+        "introduction": "Renewable Energy is central to solving our current climate crisis and ensuring the health and growth of future economies.It uses a wide range of sources to supply power, from wind and water to solar power, organic matter, and even geothermal heat from the earth’s core. It is the role of a Renewable Energy Technician to ensure the equipment for collecting, generating, or distributing power from their sources is properly maintained and operates efficiently.",
+        "img": "0019.jpg"
+    },
+    {
+        "id": "0020",
+        "name": "Robot Systems Integration",
+        "introduction": "The number of robots used in industry has increased rapidly, with an estimated 400,000 installed every year. Robot Systems Integration ensures that they fit properly in the production process. In order to perform complex and precise tasks, robots rely on skilled human resources to install and maintain them.Robot integrators must be able to assess the best type of robot for a particular task, which might include lifting, loading and unloading, and welding, and then deciding where to place them.",
+        "img": "0020.jpg"
+    },
+    {
+        "id": "1000",
+        "name": "Information Network Cabling",
+        "introduction": "The occupations related to “Information Network Cabling” are deeply related to the technology that supports modern information societies in which lives can be more comfortable and sustainable.",
+        "img": "1000.jpg"
+    },
+    {
+        "id": "1001",
+        "name": "IT Software Solutions for Business",
+        "introduction": "The rapid pace of globalization over the past decade has been largely driven by developments in Information and Communication Technology (ICT). IT specialists are increasingly in demand in several areas, one of which is providing software solutions for businesses.",
+        "img": "1001.jpg"
+    },
+    {
+        "id": "1002",
+        "name": "Print Media Technology",
+        "introduction": "The Print Media Technician is involved with all aspects of the printing process from the initial planning and preparation, through the print run, checking for consistent quality to cleaning up after the print run is complete. The work is usually large-scale production of printed materials for a range of clients. Specifically, Print Media Technology involves the production of printed material using an offset sheet-fed press and other equipment to create finished, printed products for commercial and packaging industry. This occupation is responsible for producing all printed material at a printing operation.",
+        "img": "1002.jpg"
+    },
+    {
+        "id": "1003",
+        "name": "Web Technologies",
+        "introduction": "Web technology encompasses many different skills and disciplines in the design, development, production, and maintenance of websites. The skills required of a web developer are diverse, often to the point where it is difficult for a developer to excel in all aspects. As a result, a team may cover the Web design process, with each member of the team having their own strengths, specialities, and role in the development process.",
+        "img": "1003.jpg"
+    },
+    {
+        "id": "1004",
+        "name": "IT Network Systems Administration",
+        "introduction": "An IT Network Systems Administrator works in small or large organizations in the commercial and public sectors, offering a wide range of IT services which are critical for the operation of daily business. Any ‘downtime’ is costly for an organization therefore the IT Network Systems Administrator has a responsibility to work professionally and interactively with users in order to meet their needs and ensure continuance of the systems and service levels they require to perform their roles effectively. The IT Network Systems Administrator also offers advice and guidance on the development of systems and services to take the organization forward.",
+        "img": "1004.jpg"
+    },
+    {
+        "id": "1005",
+        "name": "Cloud Computing",
+        "introduction": "The positions responsible for the design and implementation of information technology infrastructure in a public cloud environment can span multiple roles including, Systems Administrators/Engineers, Database Administrators, Network Administrators/Engineers, Storage Administrators/Engineers, Systems/Network/Solutions/Enterprise Architects, programmers/developers, and similar technology-driven roles which shoulder the business and functional responsibilities for architecting infrastructure design.",
+        "img": "1005.jpg"
+    },
+    {
+        "id": "1006",
+        "name": "Cyber Security",
+        "introduction": "In recent years there has been an explosive growth in online business transactions, the Internet of Things (IoT) and cloud computing. Simultaneously, IT has become an official and unofficial political tool, as well as a means of new types of warfare. Many countries now deliver essential services online, to the extent that citizens without access to IT may become isolated and disadvantaged. ",
+        "img": "1006.jpg"
+    },
+    {
+        "id": "1007",
+        "name": "Mobile Applications Development",
+        "introduction": "We use apps on our phones every day. It is the job of Mobile Applications Development to create these essential tools for almost every aspect of our lives.\nAs a rapidly increasing way of communicating and sharing information, this is one of the fastest growing occupations, offering opportunities for both employment and self-employment, especially for young people.",
+        "img": "1007.jpg"
+    },
+    {
+        "id": "2000",
+        "name": "Wall and Floor Tiling",
+        "introduction": "A tiler generally works on commercial and residential projects. There is a direct relationship between the nature and quality of the product required and the payment made by the customer. Therefore, the tiler has a continuing responsibility to work professionally in order to meet the requirements of the customer and thus maintain and grow the business. Tiling is closely associated with other parts of the construction industry, and with the many products that support it, normally for commercial purposes.",
+        "img": "2000.jpg"
+    },
+    {
+        "id": "2001",
+        "name": "Plumbing and Heating",
+        "introduction": "A plumbing and heating technician works on commercial, residential, agricultural, and industrial projects. There is a direct relationship between the nature and quality of the product required and the payment made by the customer. Therefore, the practitioner has a continuing responsibility to work professionally in order to meet the requirements of the customer and thus maintain and grow the business. Plumbing and heating is closely associated with other parts of the construction industry, and with the many products that support it, normally for commercial purposes.",
+        "img": "2001.jpg"
+    },
+    {
+        "id": "2002",
+        "name": "Electrical Installations",
+        "introduction": "An electrician works on commercial, residential, agricultural, and industrial projects. There is a direct relationship between the nature and quality of the product required and the payment made by the customer. Therefore, the electrician has a continuing responsibility to work professionally in order to meet the requirements of the customer and thus maintain and grow the business. Electrical installation is closely associated with other parts of the construction industry and with the many products that support it, normally for commercial purposes.",
+        "img": "2002.jpg"
+    },
+    {
+        "id": "2003",
+        "name": "Bricklaying",
+        "introduction": "A bricklayer generally works on commercial and residential projects. They are responsible for building or repairing associated structures in accordance with the construction plans. There is a direct relationship between the nature and quality of the product required and the payment made by the customer. Therefore, the bricklayer has a continuing responsibility to work professionally in order to meet the requirements of the customer and thus maintain and grow the business. This includes working harmoniously with other trades in order to optimize efficiency and minimize mistakes.",
+        "img": "2003.jpg"
+    },
+    {
+        "id": "2004",
+        "name": "Plastering and Drywall Systems",
+        "introduction": "The skilled plasterer may work on both internal and external plastering and rendering work. Much modern internal work is completed using drywall systems which involve the plasterer creating metal frames and installing plasterboard before the application on the final surface. These constructions can be complex and include curves and openings for doors and windows. Traditional plastering involves the preparation of the background prior to application of the plaster surface.",
+        "img": "2004.jpg"
+    },
+    {
+        "id": "2005",
+        "name": "Painting and Decorating",
+        "introduction": "A painter and decorator works in the commercial and public sectors and is responsible for the external and internal appearance of a building and its protection from water, rust, corrosion, mould, and insect infestation. There is a direct relationship between the nature and quality of the service required and the payment made by the client. Therefore, the painter and decorator has a continuing responsibility to work professionally and interactively with the client in order to give satisfaction and thus maintain and grow the business.",
+        "img": "2005.jpg"
+    },
+    {
+        "id": "2006",
+        "name": "Cabinetmaking",
+        "introduction": "Cabinetmaking covers the manufacture of free-standing and built-in furniture and units, using wood at the sole or main material. It may include the design of furniture, but normally comprises the creation of furniture and units from designs prepared by others. Cabinetmaking differs from joinery through the quality of the wood and associated materials used, and the intricacy and aesthetic quality of the finished items. There is, however, some overlap between cabinetmaking and joinery.",
+        "img": "2006.jpg"
+    },
+    {
+        "id": "2007",
+        "name": "Joinery",
+        "introduction": "A joiner generally works on commercial and residential projects. There is a direct relationship between the nature and quality of the product required and the payment made by the customer. Therefore, the joiner has a continuing responsibility to work professionally in order to meet the requirements of the customer and thus maintain and grow the business. Joinery is closely associated with cabinet making and carpentry plus other parts of the construction industry and with the many products that support it, normally for commercial purposes.",
+        "img": "2007.jpg"
+    },
+    {
+        "id": "2008",
+        "name": "Carpentry",
+        "introduction": "A carpenter generally works on commercial and residential projects predominantly undertaking tasks using timber and timber related products. Carpentry is closely associated with other trades that make up the construction industry, working both individually and as part of a team to complete projects. A carpenter undertakes work both internally and externally within homes of customers and on construction sites in all weather conditions.",
+        "img": "2008.jpg"
+    },
+    {
+        "id": "2009",
+        "name": "Landscape Gardening",
+        "introduction": "The key role for a landscape gardener is to design, install, and maintain gardens and landscaped areas. The landscape gardener will need to meet with clients to discuss their proposed projects, provide advice and guidance on the practicalities of the project, and carefully interpret the client’s wishes.Projects can be varied and incorporate private and public gardens, parks, public open spaces, sports, and recreation venues, playgrounds, and other landscaped areas. The landscape gardener must be able to develop innovative schemes that meet the needs of clients and comply with planning regulations, while retaining a vision of how the finished project will fit into the overall area and how garden spaces interact with urban environments.",
+        "img": "2009.jpg"
+    },
+    {
+        "id": "2010",
+        "name": "Refrigeration and Air Conditioning",
+        "introduction": "A refrigeration and air conditioning technician works on commercial, residential, public, and industrial projects, including transportation and storage. There is a direct relationship between the nature and quality of the product and service required and the resulting cost and price; therefore, this branch of engineering covers a wide range of products and services. It is also essential for the refrigeration and air conditioning technician to meet high and growing standards of service in order to comply with the requirements of the customer and maintain and grow the business. Refrigeration and air conditioning is closely associated with other parts of the construction and transportation industries at all stages and is equally affected by rapid change in these sectors, including growing environmental trends, and requirements.",
+        "img": "2011.jpg"
+    },
+    {
+        "id": "2011",
+        "name": "Concrete Construction Work",
+        "introduction": "A Concrete Construction Worker generally works on commercial and residential projects. There is a direct relationship between the nature and quality of the product required and the payment made by the customer. Therefore, the Concrete Construction Worker has a continuing responsibility to work professionally in order to meet the requirements of the customer and thus maintain and grow the business.Concrete Construction Work is closely associated with other parts of the construction industry, and with the many products that support it, normally for commercial purposes.",
+        "img": "2011.jpg"
+    },
+    {
+        "id": "2012",
+        "name": "Digital Construction",
+        "introduction": "Building Information Modelling (BIM) is a process for creating and managing information on a construction project across the project lifecycle. One of the key outputs of this process is the Building Information Model, the digital description of every aspect of the built asset. This model draws on information assembled collaboratively and updated at key stages of a project. Creating a digital Building Information Model enables those who interact with the building to optimize their actions, resulting in a greater whole life value for the asset.",
+        "img": "2012.jpg"
+    },
+    {
+        "id": "3000",
+        "name": "Autobody Repair",
+        "introduction": "Autobody repairers realign both the structure and the panelling of both light and heavy-duty vehicles after they have been involved in collisions. This can often be a complex process as each collision will present different degrees and directions of damage. The repaired vehicle must conform to the stringent specifications established by the vehicle manufacturer and meet both their tolerances and their safety specifications. ",
+        "img": "3000.jpg"
+    },
+    {
+        "id": "3001",
+        "name": "Aircraft Maintenance",
+        "introduction": "An aircraft maintenance technician works in the commercial, military, and public service sectors, performing a range of processes on aeronautical products. They have a critical responsibility to work professionally to ensure the safety of customers and operational personnel while maintaining the reputation of the team or organization.",
+        "img": "3001.jpg"
+    },
+    {
+        "id": "3002",
+        "name": "Automobile Technology",
+        "introduction": "The modern Light Vehicle Automobile Technician is may be employed in an independent workshop that is not associated with particular manufacturers or is closely associated with a major manufacturer of light vehicles. Their expertise may be greatest with that manufacturer’s vehicles; however, depending on the situation and range of services offered by the workshop, they may also handle other manufacturers’ vehicles.",
+        "img": "3002.jpg"
+    },
+    {
+        "id": "3003",
+        "name": "Car Painting",
+        "introduction": "Car painters (refinishers) are responsible for reinstating the pre-accident paint finish to cars after the structure and/or the panels have been repaired or replaced. They may also be asked to completely repaint a whole vehicle either to change its colour or reinstate its newness. Car painters may also become involved in matching colours to an original colour no longer available or to colours that prove difficult to match. A car painter must match the colour, shade, and texture of the adjoining panels that are not being painted.",
+        "img": "3003.jpg"
+    },
+    {
+        "id": "3004",
+        "name": "Heavy Vehicle Technology",
+        "introduction": "The Heavy Vehicle Mechanic maintains, diagnoses, and repairs large machines and industrial equipment including towed and self-propelled equipment used in mining, forestry, agriculture, landscaping, and material handling industries. The mechanic must be able to maintain, diagnose, and repair internal combustion engines and components on stationary, mobile, tracked rubber-tired equipment, ground-engaging equipment, and earth-moving equipment.",
+        "img": "3004.jpg"
+    },
+    {
+        "id": "3005",
+        "name": "Freight Forwarding",
+        "introduction": "The Freight Forwarder manages the movement of freight from one location to another on behalf of a customer. They generally do this on a commercial basis and within a strong legal and financial framework. The modes of transport may include road, rail, air or sea, or a combination of these. The Freight Forwarder requires specific expertise to ensure that all necessary documentation conforms to the requirements of customs, insurance and the law (IATA Conventions, Maritime Law, ICC Codes, and any international regulations governing international transportation).",
+        "img": "3005.jpg"
+    },
+    {
+        "id": "3006",
+        "name": "Rail Vehicle Technology",
+        "introduction": "Railways are as important today as when they first began nearly 200 years ago, transporting large numbers of people and goods quickly and in a way that is friendly to the environment.\nToday’s rail vehicles, though, are more complex than ever. It is the job of the Rail Vehicle Technician to carry out inspections, maintenance and repair, and general troubleshooting. To ensure safe and reliable trains, they must work in a team with an understanding of a wide range of technologies, including high voltage electricity, brakes, air conditioning, door operations, and wheels.",
+        "img": "3006.jpg"
+    },
+    {
+        "id": "4000",
+        "name": "Jewellery",
+        "introduction": "The skill of jewellery manufacturing consists of the making of fashion accessories using precious metal. A jewellery manufacturer can make exclusive individual pieces for use, pieces ready to be set with precious gemstones or prototypes for reproduction in numbers through lost-wax casting. A jeweller may also be required to replicate a piece directly, use jewellery making skills to refashion or repair an existing piece. A jewellery manufacturer will usually work from detailed drawings created through direct consultation with a client or by a jewellery designer. ",
+        "img": "4000.jpg"
+    },
+    {
+        "id": "4001",
+        "name": "Floristry",
+        "introduction": "The florist may work in one of several sectors of the floral Industry including being self-employed, working on commissioned projects or working in the retail sector. Florists must demonstrate business acumen and interpersonal skills when dealing with clients. Advanced levels of customer care and sales skills are crucial. Themed and bespoke floral projects are commissioned for various social and cultural events such as weddings, celebrations, funerals, and product launches.",
+        "img": "4001.jpg"
+    },
+    {
+        "id": "4002",
+        "name": "Fashion Technology",
+        "introduction": "The Fashion Technology practitioner creates garments. The technical skills involved include design, pattern construction, cutting, and garment manufacture and finishing.\nThe practitioner may work in one of several sectors but often they are self-employed and work on commissioned projects or in the retail manufacturing sector or in sampling garments for production.",
+        "img": "4002.jpg"
+    },
+    {
+        "id": "4003",
+        "name": "Graphic Design Technology",
+        "introduction": "Graphic Design Technology comprises many different skills and disciplines in the production of graphic design and output. The diversity of the skills required in the industry are very broad: it is common for people working in this field to be specialists in a particular aspect. As a result, a team may cover the Graphic Design Technology process, with each member of the team having their own strengths, specialities, and roles.",
+        "img": "4003.jpg"
+    },
+    {
+        "id": "4004",
+        "name": "Visual Merchandising",
+        "introduction": "A visual merchandiser creates window and interior displays in shops and department stores thus is essentially responsible for the “look” of the retail outlet. The chief aim of a visual merchandiser is to maximize sales by communicating with the target audience and creating a positive atmosphere. The visual merchandiser communicates directly with the target audience through their designs and creates a positive impression which in turn impacts on the sales revenue of the business. ",
+        "img": "4004.jpg"
+    },
+    {
+        "id": "4005",
+        "name": "3D Digital Game Art",
+        "introduction": "The games development sector comprises three occupations or work roles: the designer, the artist, and the programmer. The 3D Digital Game Artist takes a designer’s brief and, through a combination of conceptualization, creativity, selectivity, technical, and specialist skills, completes the brief to the satisfaction of clients. The 3D Digital Game Artist receives, conceptualizes, and interprets design briefs on the basis of their market knowledge and skill sets, and the given scope and limits of the briefs.",
+        "img": "4005.jpg"
+    },
+    {
+        "id": "5000",
+        "name": "Hairdressing",
+        "introduction": "A hairdresser generally works in the commercial sector, offering a range of services and treatments to the hair for individual clients. There is a direct relationship between the nature and quality of the service required, and the payment made by the client.Therefore, the hairdresser has a continuing responsibility to work professionally and interactively with the client in order to give satisfaction and thus maintain and grow the business. Hairdressing is closely associated with other parts of the service sector, and with the many products that support it, normally for commercial purposes.",
+        "img": "5000.jpg"
+    },
+    {
+        "id": "5001",
+        "name": "Beauty Therapy",
+        "introduction": "A beauty therapist generally works in the commercial sector, offering specialist services, treatments and advice for the skin, body care, massage, and make-up of individual clients. There is a direct relationship between the nature and quality of the service required, and the payment made by the client. Therefore, the beauty therapist has a continuing responsibility to work professionally and interactively with the client in order to give satisfaction and thus maintain and grow the business.",
+        "img": "5001.jpg"
+    },
+    {
+        "id": "5002",
+        "name": "Pâtisserie and Confectionery",
+        "introduction": "The Pâtisserie and Confectionery trades have highly skilled professionals who produce a wide range of intricate and predominantly sweet items. They produce various confectionery products such as hand finished chocolates, candies, and petits fours for service in hotels and restaurants or for retail in specialist shops and outlets.",
+        "img": "5002.jpg"
+    },
+    {
+        "id": "5003",
+        "name": "Cooking",
+        "introduction": "The professional chef can work in a wide range of establishments including high-class and casual restaurants, hotels, welfare caterings such as hospitals and residential homes, theme parks, airlines, ships, clubs, retail HMR and Food To-Go, Fast Food outlets, and industrial canteens; providing catering services to both guests and staff. The range of skills and customer expectations will vary according to the workplace.",
+        "img": "5003.jpg"
+    },
+    {
+        "id": "5004",
+        "name": "Restaurant Service",
+        "introduction": "The restaurant service practitioner provides high quality food and drink service to guests. A food service practitioner generally works in the commercial sector, offering a range of services to customers. There is a direct relationship between the nature and quality of the service required and the payment made by the guest. Therefore, the practitioner has a continuing responsibility to work professionally and interactively with the guest in order to give satisfaction and thus maintain and grow the business.",
+        "img": "5004.jpg"
+    },
+    {
+        "id": "5005",
+        "name": "Health and Social Care",
+        "introduction": "A health and social care practitioner offers a range of support to individual clients and their family and has a continuing responsibility to work professionally and interactively with the client in order to ensure their holistic care needs are met. Whilst the health and social care practitioner may work directly for the client they are normally employed by an organization within the health and social care sector. Health and social care is closely associated with the medical profession.",
+        "img": "5005.jpg"
+    },
+    {
+        "id": "5006",
+        "name": "Bakery",
+        "introduction": "The baker is a highly skilled professional, with high level of knowledge about food and nutrition, who produces a wide range of bread and pastry items.\nThe baker produces all varieties of fresh and tasty bakery products, made of any kind of grains. Different types of fermentation and other processes will be used to turn the raw material in to sweet or savoury products. For example, wheat bread, rye bread, artisan bread, enriched breads, laminated products, and ingredients to flavour their bakery products.",
+        "img": "5006.jpg"
+    },
+    {
+        "id": "5007",
+        "name": "Hotel Reception",
+        "introduction": "Globalization, social and demographic changes, and the evolution in transport are decisive factors in driving a rapid growth in the tourism industry and travel for business. Travel and tourism therefore plays an important role in social and economic growth throughout the world.Hotels of many types, sizes and ownership are an essential part in this industry, providing accommodation and associated services to guests from across the globe. They may be part of international hotel chains which market their services on consistency and familiarity for the frequent or regular guest.",
+        "img": "5007.jpg"
+    }
+]

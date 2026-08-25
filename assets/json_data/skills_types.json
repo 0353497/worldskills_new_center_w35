@@ -1,0 +1,104 @@
+{
+    "introduction": "WorldSkills Competitions measure excellence, celebrate Champions, and encourage hundreds of thousands of young people to turn their passions into a profession. Competitor begin their development at local, regional and national competitions, before representing their country and region at the international level.\nWorldSkills Competitions are held over two years and are a unique opportunity for countries and regions to benchmark their vocational education and training systems.\nOur Competitions feature more than fifty skills across a wide range of industries. The level of competition at WorldSkills inspires many young people who see it, to consider pursuing these skills themselves, or to set up businesses with skills at their heart.\nThe WorldSkills event is not just a Competition – it includes a world-class Conference at which Ministers, policy-makers, and academics debate developments in the sector.",
+    "skills_type": [
+        {
+            "skill_type_id": 0,
+            "name": "Manufacturing and Engineering Technology",
+            "skills": [
+                "0000",
+                "0001",
+                "0002",
+                "0003",
+                "0004",
+                "0005",
+                "0006",
+                "0007",
+                "0008",
+                "0009",
+                "0010",
+                "0011",
+                "0012",
+                "0013",
+                "0014",
+                "0015",
+                "0016",
+                "0017",
+                "0018",
+                "0019",
+                "0020"
+            ]
+        },
+        {
+            "skill_type_id": 1,
+            "name": "Information and Communication Technology",
+            "skills": [
+                "1000",
+                "1001",
+                "1002",
+                "1003",
+                "1004",
+                "1005",
+                "1006",
+                "1007"
+            ]
+        },
+        {
+            "skill_type_id": 2,
+            "name": "Construction and Building Technology",
+            "skills": [
+                "2000",
+                "2001",
+                "2002",
+                "2003",
+                "2004",
+                "2005",
+                "2006",
+                "2007",
+                "2008",
+                "2009",
+                "2010",
+                "2011",
+                "2012"
+            ]
+        },
+        {
+            "skill_type_id": 3,
+            "name": "Transportation and Logistics",
+            "skills": [
+                "3000",
+                "3001",
+                "3002",
+                "3003",
+                "3004",
+                "3005",
+                "3006"
+            ]
+        },
+        {
+            "skill_type_id": 4,
+            "name": "Creative Arts and Fashion",
+            "skills": [
+                "4000",
+                "4001",
+                "4002",
+                "4003",
+                "4004",
+                "4005"
+            ]
+        },
+        {
+            "skill_type_id": 5,
+            "name": "Social and Personal Services",
+            "skills": [
+                "5000",
+                "5001",
+                "5002",
+                "5003",
+                "5004",
+                "5005",
+                "5006",
+                "5007"
+            ]
+        }
+    ]
+}
