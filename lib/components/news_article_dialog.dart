@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
+import 'package:worldskills_new_center/services/sound_service.dart';
 
 class NewsArticleDialog extends StatefulWidget {
   const NewsArticleDialog({super.key, this.item});
@@ -48,6 +49,7 @@ class _NewsArticleDialogState extends State<NewsArticleDialog> {
                   children: [
                     IconButton(
                       onPressed: () {
+                        SoundService.playSound();
                         setState(() {
                           fontSize--;
                         });
@@ -56,6 +58,7 @@ class _NewsArticleDialogState extends State<NewsArticleDialog> {
                     ),
                     IconButton(
                       onPressed: () {
+                        SoundService.playSound();
                         setState(() {
                           fontSize++;
                         });
